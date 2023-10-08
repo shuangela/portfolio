@@ -15,7 +15,7 @@ I am majoring in Cognitive Science with a minor in Data Science at the Universit
 These are some samples that I'm especially proud of:
 * Modify and write dynamic options syntax
 * Create a dashboard
-* August Tech Writing Tidbit
+* August tech writing tidbit
 
 ## Navigation
 My portfolio comprises the following sections:
