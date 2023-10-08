@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Angela's portfolio
+description: My portfolio
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://shuangela.github.io/portfolio
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Email: mailto:angelashu103@gmail.com
+  LinkedIn: https://www.linkedin.com/in/angela-shu/
