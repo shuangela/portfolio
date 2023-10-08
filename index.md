@@ -3,33 +3,34 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Hi!
+I'm Angela, a technical writer with a passion for creating amazing documentation experiences. 
+{: .fs-6 : .fw-300 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Currently, I'm a Technical Writer Intern at [Workato], where I write documentation to help enterprise customers create automated workflows and integrations. In the past, I've interned at [Splunk], writing tutorials and use cases to facilitate user adoption of Dashboard Studio. I also worked at [Argo AI], crafting documentation to support map operations for self-driving cars. I'm excited for my next technical writing opportunity and ready to take on new challenges.
 
-More specifically, the created site:
+I am majoring in Cognitive Science with a minor in Data Science at the University of California, Berkeley. In my free time, I enjoy reading novels, cooking new recipes, and playing video games with my friends! 
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Featured Samples
+These are some samples that I'm especially proud of:
+* Modify and write dynamic options syntax
+* Create a dashboard
+* August Tech Writing Tidbit
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Navigation
+My portfolio comprises the following sections:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+* Workato
+* Splunk
+* Argo AI
+* Personal Projects
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+The navigation is on the left side of the page on computers and displays as a hamburger <img src="https://github.com/shuangela/portfolio/assets/17172489/05673d94-0fc1-4e4a-b3f5-39834f2c248a" alt="hamburger menu" width="20"/> menu on mobile devices.
 
 ----
+[Back to top](#top)
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+[Workato]: https://www.workato.com/
+[Splunk]: https://www.splunk.com/
+[Argo AI]: https://en.wikipedia.org/wiki/Argo_AI
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
