@@ -18,7 +18,7 @@ These are some samples that I'm especially proud of:
 * August tech writing tidbit
 
 ## Navigation
-My portfolio comprises the following sections:
+My portfolio contains the following sections:
 
 * Workato
 * Splunk
