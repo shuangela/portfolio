@@ -21,10 +21,10 @@ These are some samples that I'm especially proud of:
 ## Navigation
 My portfolio contains the following sections:
 
-* Workato
-* Splunk
-* Argo AI
-* Personal Projects
+* [Workato](/portfolio/Workato)
+* [Splunk](/portfolio/Splunk)
+* [Argo AI](/portfolio/Argo)
+* [Personal Projects](/portfolio/Personal-Projects)
 
 The navigation is on the left side of the page on computers and displays as a hamburger <img src="https://github.com/shuangela/portfolio/assets/17172489/05673d94-0fc1-4e4a-b3f5-39834f2c248a" alt="hamburger menu" width="20"/> menu on mobile devices.
 
