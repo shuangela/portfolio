@@ -17,5 +17,5 @@ I wrote an introduction to Discord for my parents, who didn't understand what Di
 
 The Vale linter is a tool for linting documentation. I wrote this guide for my friend who wanted to use Vale to lint her English essays.
 
-[Vale linter quick start guide](https://shuangela.github.io/vale%20linter%20quick%20start%20guide.pdf)
+[Vale linter quick start guide](https://shuangela.github.io/portfolio/vale%20linter%20quick%20start%20guide.pdf)
 
