@@ -34,6 +34,6 @@ The navigation is on the left side of the page on computers and displays as a ha
 [Workato]: https://www.workato.com/
 [Splunk]: https://www.splunk.com/
 [Argo AI]: https://en.wikipedia.org/wiki/Argo_AI
-[Create a dashboard]: https://drive.google.com/file/d/1dvYzqOtQ4bxzl3mkp1OR8m58Rd7BFLCz/view?usp=sharing
-[Modify and write dynamic options syntax]: https://drive.google.com/file/d/18Tcin9PO3eD-74hZf98-aF9_FRVbfAmV/view?usp=sharing
+[Create a dashboard]: https://shuangela.github.io/portfolio/SplunkCloud-9.0.2303-DashStudio-dashCanvas.pdf
+[Modify and write dynamic options syntax]: https://shuangela.github.io/portfolio/Splunk-9.1.1-DashStudio-ModifyDOS.pdf
 
