@@ -9,7 +9,7 @@ has_children: false
 In my spare time, I enjoy creating my own pieces of technical documentation to help friends and family.
 
 ## Introduction to Discord
-I wrote an introduction to Discord for my parents, who didn't understand what Discord was and how it was similar to other messaging apps such as Slack.
+During the COVID-19 pandemic, I wanted to create a family Discord server, but my family did not know what Discord was. To help them learn how to use Discord, I wrote the following guide.
 
 [Introduction to Discord](https://shuangela.github.io/portfolio/Introduction%20to%20Discord.pdf)
 
