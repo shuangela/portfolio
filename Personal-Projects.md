@@ -13,9 +13,9 @@ During the COVID-19 pandemic, I wanted to create a family Discord server, but my
 
 [Introduction to Discord](https://shuangela.github.io/portfolio/Introduction%20to%20Discord.pdf)
 
-## Vale linter quick start guide
+## Vale Linter quick start guide
 
-The Vale linter is a tool for linting documentation. I wrote this guide for my friend who wanted to use Vale to lint her English essays.
+ale Linter is a tool for linting documentation. I wrote this guide for my friend who wanted to use Vale to lint her English essays.
 
-[Vale linter quick start guide](https://shuangela.github.io/portfolio/vale%20linter%20quick%20start%20guide.pdf)
+[Vale Linter quick start guide](https://shuangela.github.io/portfolio/Vale%20Linter%20quick%20start%20guide.pdf)
 
