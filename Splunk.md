@@ -32,7 +32,7 @@ that users often used. I also conducted user testing to further align the tutori
 I also created four new pieces of documentation focusing on Dynamic Options Syntax (DOS), which is a syntax that advanced Dashboard Studio creators use to dynamically update dashboards. Through this process, 
 I worked closely with Product Managers and Software Engineers to document the technical specifications of DOS and guide users through common DOS use cases.
 
-* [Dynamic options in Dashboard Studio](https://shuangela.github.io/portfolio/SplunkCloud-9.0.2305-DashStudio-DashStudioDynOptions (1).pdf)
+* [Dynamic options in Dashboard Studio](https://shuangela.github.io/portfolio/SplunkCloud-9.0.2305-DashStudio-DashStudioDynOptions.pdf)
 * [Using dynamic options in the visual editor](https://shuangela.github.io/portfolio/Splunk-9.1.1-DashStudio-visualEditDynamic.pdf)
 * [Modify and write dynamic options syntax](https://shuangela.github.io/portfolio/Splunk-9.1.1-DashStudio-ModifyDOS.pdf)
 * [Escapes, quotation marks, and deltas in dynamic options syntax](https://shuangela.github.io/portfolio/Splunk-9.1.1-DashStudio-DOSFormatting.pdf)
