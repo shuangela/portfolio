@@ -16,7 +16,7 @@ I am majoring in Cognitive Science with a minor in Data Science at the Universit
 These are some samples that I'm especially proud of:
 * [Modify and write dynamic options syntax]
 * [Create a dashboard]
-* [August tech writing tidbit]
+* [August tech writing tidbit](/portfolio/August-Tidbit.md)
 
 ## Navigation
 My portfolio contains the following sections:
@@ -35,6 +35,5 @@ The navigation is on the left side of the page on computers and displays as a ha
 [Splunk]: https://www.splunk.com/
 [Argo AI]: https://en.wikipedia.org/wiki/Argo_AI
 [Create a dashboard]: https://drive.google.com/file/d/1dvYzqOtQ4bxzl3mkp1OR8m58Rd7BFLCz/view?usp=sharing
-[August tech writing tidbit]: /portfolio/August-Tidbit.md
 [Modify and write dynamic options syntax]: https://drive.google.com/file/d/18Tcin9PO3eD-74hZf98-aF9_FRVbfAmV/view?usp=sharing
 
