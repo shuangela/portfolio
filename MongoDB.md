@@ -15,5 +15,5 @@ The following documentation samples are some examples of my day-to-day writing t
 
 In addition to the documentation samples above, I contributed to a MongoDB Python sample app using Python FastAPI as the backend. This app is intended to showcase fundamental MongoDB concepts to new users.
 
-* [MongoDB Sample Mflix Appliccation](https://github.com/mongodb/sample-app-python-mflix)
+* [MongoDB Sample Mflix Application](https://github.com/mongodb/sample-app-python-mflix)
 
