@@ -10,7 +10,7 @@ I'm Angela, a technical communicator with a passion for connecting users with th
 
 I'm currently an Associate Technical Writer at [MongoDB], where I write technical documentation supporting the MongoDB drivers ecosystem. Previously, I've worked at [Workato], writing documentation to help enterprise customers create automated workflows and integrations. I've also worked at [Splunk], creating tutorials and use cases to facilitate user adoption of Dashboard Studio. My first professional communication experience was at [Argo AI], supporting map operations for self-driving cars. 
 
-I studied Cognitive Science with a minor in Data Science at the University of California, Berkeley. In my free time, I enjoy reading novels, cooking new recipes, and playing video games with my friends! 
+I studied Cognitive Science with a minor in Data Science at the [University of California, Berkeley]. In my free time, I enjoy reading novels, cooking new recipes, and playing video games with my friends! 
 
 ## Featured Samples
 These are some samples that I'm especially proud of:
@@ -36,6 +36,7 @@ The navigation is on the left side of the page on computers and displays as a ha
 [Workato]: https://www.workato.com/
 [Splunk]: https://www.splunk.com/
 [Argo AI]: https://en.wikipedia.org/wiki/Argo_AI
+[University of California, Berkeley]: https://www.berkeley.edu/
 [MongoDB Vector Search with C++]: https://shuangela.github.io/portfolio/CPP-Vector-Search.pdf
 [Create a dashboard]: https://shuangela.github.io/portfolio/SplunkCloud-9.0.2303-DashStudio-dashCanvas.pdf
 [Modify and write dynamic options syntax]: https://shuangela.github.io/portfolio/Splunk-9.1.1-DashStudio-ModifyDOS.pdf
