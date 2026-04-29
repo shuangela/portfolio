@@ -17,8 +17,7 @@ These are some samples that I'm especially proud of:
 * [C++ Vector Search]
 * [Modify and write dynamic options syntax]
 * [Create a dashboard]
-* [August tech writing tidbit](/portfolio/August-Tidbit)
-
+  
 ## Navigation
 My portfolio contains the following sections:
 
