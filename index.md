@@ -14,7 +14,7 @@ I studied Cognitive Science with a minor in Data Science at the University of Ca
 
 ## Featured Samples
 These are some samples that I'm especially proud of:
-* [C++ Vector Search]
+* [MongoDB Vector Search with C++]
 * [Modify and write dynamic options syntax]
 * [Create a dashboard]
   
@@ -36,7 +36,7 @@ The navigation is on the left side of the page on computers and displays as a ha
 [Workato]: https://www.workato.com/
 [Splunk]: https://www.splunk.com/
 [Argo AI]: https://en.wikipedia.org/wiki/Argo_AI
-[C++ Vector Search]: https://github.com/shuangela/portfolio/blob/main/CPP-Vector-Search.pdf
+[MongoDB Vector Search with C++]: https://shuangela.github.io/portfolio/CPP-Vector-Search.pdf
 [Create a dashboard]: https://shuangela.github.io/portfolio/SplunkCloud-9.0.2303-DashStudio-dashCanvas.pdf
 [Modify and write dynamic options syntax]: https://shuangela.github.io/portfolio/Splunk-9.1.1-DashStudio-ModifyDOS.pdf
 
